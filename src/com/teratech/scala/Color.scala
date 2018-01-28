@@ -1,5 +1,7 @@
 package com.teratech.scala
 
-trait MyColor {
+trait MyColor 
+{
   var color:Int
+  var blue: String
 }

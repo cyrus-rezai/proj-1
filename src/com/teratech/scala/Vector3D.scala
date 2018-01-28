@@ -2,7 +2,7 @@ package com.teratech.scala
 
 class Vector3D (x:Double, var color:Int) extends Vector2D(x, x) with MyColor {
     final val a = 0
-    
+    var blue = "blue"
     override def myMethod() = 
     {
         super.myMethod()
