@@ -1,0 +1,15 @@
+
+.cache-main
+.classpath
+.project
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.scala-ide.sdt.core.prefs
+bin/com/teratech/scala/GreenColor$.class
+bin/com/teratech/scala/GreenColor.class
+bin/com/teratech/scala/ParametricClass.class
+bin/com/teratech/scala/RedColor$.class
+bin/com/teratech/scala/RedColor.class
+bin/com/teratech/scala/MyColor.class
+bin/com/teratech/scala/shapes/Circle.class
+bin/com/teratech/scala/shapes/Rectangle.class
+*.class
