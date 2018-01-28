@@ -2,7 +2,7 @@ package com.teratech.scala
 
 object RedColor 
 {
-    val color = "Red"
+    val color = "Dark Red"
     
   
 }
